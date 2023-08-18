@@ -9,3 +9,9 @@ gist:
 kramdown:
   math_engine: mathjax
   syntax_highlighter: rouge
+  extensions:
+    - autolink
+    - footnotes
+    - smart
+#url: http://tigefa4u.github.io
+name: Villa des Luquettes
