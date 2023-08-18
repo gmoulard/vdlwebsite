@@ -193,35 +193,50 @@ A small video of the views from the house:  [here](https://youtu.be/AcLem2M6H9)
 
 ## GALLERY
 
+### ground floor
+
 [](img/Cuisine.JPG)
+[](img/C1jours.JPG)
+[](Terrasse20m.JPG)
+[](Terrasse40m.JPG)
+
 [](img/C1.JPG)
 [](img/C2.JPG)
 [](img/C3.JPG)
-[](img/C4.JPG)
+[](SDB_RDC.JPG)
+[](SDD_RDC.JPG)
+
+### Upstairs
+
 [](img/C5.JPG)
+[](img/C5_2.JPG)
 [](img/C6.JPG)
 [](img/C7.JPG)
-[](img/C2.JPG)
-[](img/C2.JPG)
-[](img/)
-[](img/)
-[](img/)
-[](img/)
-[](img/)
-[](img/)
-[](img/)
-[](img/)
-[](img/)
-[](img/)
-[](img/)
-[](img/)
-[](img/)
-[](img/)
-[](img/)
-[](img/)
-[](img/)
+[](img/Salon1.JPG)
+[](img/Salon2JPG.JPG)
+[](SDB_Haut.JPG)
+[](IMG_5458.jpg)
+[](Toilette-Chat.jpg)
 
+### Exterior
+
+[](img/C4.JPG)
+[](img/C4_Exterieure.JPG)
+[](img/Campagne.jpg)
+[](img/Piscine.JPG)
+[](PiscineJoie.jpg)
+[](img/DSC_0066_6.JPG)
+[](img/DSC_0068_6.JPG)
+[](img/Graph1.jpg)
+[](img/Graph2.jpg)
+[](img/IMG-20190804-WA0009.jpg)
+[](img/IMG-20191003-WA0002.jpg)
 
 
 [](img/Plan.JPG)
 
+
+### CONTACT
+
+M. Moulard Mme Renaudin Chemin des luquettes, 83740 La Cad=ière d'Azure - France
++33 6 30 50 40 19 
