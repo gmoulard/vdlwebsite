@@ -1,19 +1,14 @@
-
 # Villa des Luquettes
 
-Villa familiale avec piscine dans la belle campagne provençale de la Cadière-d'Azur idéale pour 2 familles (220m2, 7 chambres, 14 couchages) 1542F Chemin des Luquettes, La Cadière-d'Azur
+**Villa familiale avec piscine dans la belle campagne provençale de la Cadière-d'Azur idéale pour 2 familles (220m2, 7 chambres, 14 couchages) 1542F Chemin des Luquettes, La Cadière-d'Azur**
 
 
 ![](img/DSC_0068_6.JPG)
 
 
-
-
-## POUR EN SAVOIR PLUS SUR LA MAISON
-
 ### -- fr --
 
-** La villa des Luquettes vous accueille pour des vacances ressourçantes en famille ou entre amis ! **
+**La villa des Luquettes vous accueille pour des vacances ressourçantes en famille ou entre amis !**
 
 **Jouissez du calme et de la beauté de la campagne, à proximité de la mer et des vignobles de Bandol.** 
 Laissez-vous bercer au bord de la piscine par le chant des cigales dans un jardin composé de nombreux oliviers, de figuiers, de grenadiers, d'amandiers et fleuri de lauriers roses, plumbagos et bougainvilliers. 
@@ -82,7 +77,9 @@ La maison est exposée plein sud ce qui est très agréable en été comme en hi
 - chaise haute
 
 Parking privé couvert pour 4 voitures. 
+
 Chaque chambre est équipée d'un ventilateur télécommandé. 
+
 Le Wifi est disponible avec une connexion ADSL Orange. 
 
 #### Accès 
@@ -103,9 +100,8 @@ Une petite video des vues de la maison : [ici](https://youtu.be/AcLem2M6H9o)
 
 ### -- en --
 
-Family villa with swimming pool in the beautiful Provencal countryside of the Cadière-d'Azur ideal for families (220m2, 7 bedrooms, sleeps 14)
+**Family villa with swimming pool in the beautiful Provencal countryside of the Cadière-d'Azur ideal for families (220m2, 7 bedrooms, sleeps 14)**
  
-TO FIND OUT MORE ABOUT THE HOUSE
 
 **The villa des Luquettes welcomes you for a revitalizing holiday with family or friends!**
 
@@ -161,7 +157,7 @@ The house is south-facing which is very pleasant in summer and winter!
 
 #### Exterior
 
-Swimming pool 8 meters by 4 meters secured by a "Beethoven" regulatory barrier and gate.
+- Swimming pool 8 meters by 4 meters secured by a "Beethoven" regulatory barrier and gate.
 - Terraces (40m2 and 20m2)
 - Pizza oven
 - Barbecues
@@ -175,7 +171,9 @@ Swimming pool 8 meters by 4 meters secured by a "Beethoven" regulatory barrier a
 - high chair
 
 Private covered parking for 4 cars. 
+
 Each room is equipped with a remote controlled fan. 
+
 Wifi is available with an Orange ADSL connection.  
 
 
@@ -197,13 +195,13 @@ A small video of the views from the house:  [here](https://youtu.be/AcLem2M6H9)
 ## Tarif 2023
 
 
-|Tarif | 2023 |
+|Tarif|2023|
 |-|-|
 |Obligatory cleaning at the end of your stay <BR> Ménage obligatoire en fin de séjours|200€|
-|Prix par semaine basse saison | 2 930 €|
-|Prix par semaine haute saison (11/7-29/8) | 3 250,00 €|
-|Forfait WeekEnd (hors juillet et aout) du vendredi 16h au lundi 10h - ménage inclus (200€) | 1 200€|
-|A l'entré dans les lieux un chèque caution |1000€|
+|<BR>Prix par semaine basse saison|2 930 €|
+|<BR>Prix par semaine haute saison (11/7-29/8)|3 250 €|
+|<BR>Forfait WeekEnd (hors juillet et aout) du vendredi 16h au lundi 10h - ménage inclus (200€) |1 200€|
+|<BR>A l'entré dans les lieux un chèque caution |1 000€|
 
 disponibilité & reservation : leboncoins [here](https://www.leboncoin.fr/locations_gites/2278518995.htm)
 
@@ -213,42 +211,42 @@ disponibilité & reservation : leboncoins [here](https://www.leboncoin.fr/locati
 ### ground floor
 
 
-[](img/Cuisine.JPG)
-[](img/C1jours.JPG)
-[](Terrasse20m.JPG)
-[](Terrasse40m.JPG)
+![](img/Cuisine.JPG)
+![](img/C1jours.JPG)
+![](Terrasse20m.JPG)
+![](Terrasse40m.JPG)
 
-[](img/C1.JPG)
-[](img/C2.JPG)
-[](img/C3.JPG)
-[](SDB_RDC.JPG)
-[](SDD_RDC.JPG)
+![](img/C1.JPG)
+![](img/C2.JPG)
+![](img/C3.JPG)
+![](SDB_RDC.JPG)
+![](SDD_RDC.JPG)
 
 ### Upstairs
 
-[](img/C5.JPG)
-[](img/C5_2.JPG)
-[](img/C6.JPG)
-[](img/C7.JPG)
-[](img/Salon1.JPG)
-[](img/Salon2JPG.JPG)
-[](SDB_Haut.JPG)
-[](IMG_5458.jpg)
-[](Toilette-Chat.jpg)
+![](img/C5.JPG)
+![](img/C5_2.JPG)
+![](img/C6.JPG)
+![](img/C7.JPG)
+![](img/Salon1.JPG)
+![](img/Salon2JPG.JPG)
+![](SDB_Haut.JPG)
+![](IMG_5458.jpg)
+![](Toilette-Chat.jpg)
 
 ### Exterior
 
-[](img/C4.JPG)
-[](img/C4_Exterieure.JPG)
-[](img/Campagne.jpg)
-[](img/Piscine.JPG)
-[](PiscineJoie.jpg)
-[](img/DSC_0066_6.JPG)
-[](img/DSC_0068_6.JPG)
-[](img/Graph1.jpg)
-[](img/Graph2.jpg)
-[](img/IMG-20190804-WA0009.jpg)
-[](img/IMG-20191003-WA0002.jpg)
+![](img/C4.JPG)
+![](img/C4_Exterieure.JPG)
+![](img/Campagne.jpg)
+![](img/Piscine.JPG)
+![](PiscineJoie.jpg)
+![](img/DSC_0066_6.JPG)
+![](img/DSC_0068_6.JPG)
+![](img/Graph1.jpg)
+![](img/Graph2.jpg)
+![](img/IMG-20190804-WA0009.jpg)
+![](img/IMG-20191003-WA0002.jpg)
 
 
 [](img/Plan.JPG)
