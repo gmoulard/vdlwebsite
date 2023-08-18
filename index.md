@@ -2,7 +2,7 @@
 layout: post
 title: Villa des Luquettes
 ---
-
+# Villa des Luquettes
 
 **Villa familiale avec piscine dans la belle campagne provençale de la Cadière-d'Azur idéale pour 2 familles (220m2, 7 chambres, 14 couchages) 1542F Chemin des Luquettes, La Cadière-d'Azur**
 
@@ -261,6 +261,3 @@ disponibilité & reservation : leboncoins [here](https://www.leboncoin.fr/locati
 
 +33 6 30 50 40 19 
 
-
-New site: https://gmoulard.github.io/vdlwebsite/
-Old Site: 
