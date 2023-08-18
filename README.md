@@ -1,73 +1,95 @@
-# Malt
 
-Event marketing template for Jekyll. Browse through a [live demo](https://whispering-boat.cloudvent.net/).
-Increase the web presence of your event with this configurable theme.
+#Villa des Luquettes
 
-![Malt](images/_screenshot.jpg)
+Villa familiale avec piscine dans la belle campagne provençale de la Cadière-d'Azur idéale pour 2 familles (220m2, 7 chambres, 14 couchages) 1542F Chemin des Luquettes, La Cadière-d'Azur
 
-CloudCannon was made by [CloudCannon](http://cloudcannon.com/), the Cloud CMS for Jekyll.
 
-Find more templates, themes and step-by-step Jekyll tutorials at [CloudCannon Academy](https://learn.cloudcannon.com/).
+[](img/Exterieure.jpg)
 
-[![Deploy to CloudCannon](https://buttons.cloudcannon.com/deploy.svg)](https://app.cloudcannon.com/register#sites/connect/github/CloudCannon/malt-jekyll-template)
 
-## Features
 
-* Pre-built page
-* Pre-styled components
-* Optimised for editing in [CloudCannon](http://cloudcannon.com/)
-* SEO tags
-* Google Analytics
-* [EventBrite](https://www.eventbrite.com/)
-* Contact Form
-* Featured
-* Image Gallery
+## POUR EN SAVOIR PLUS SUR LA MAISON
 
-## Setup
+###
 
-1. Add your site details in `_config.yml`.
-2. Add your Google Analytics to `_config.yml`.
-3. Get a workflow going to see your site's output (with [CloudCannon](https://app.cloudcannon.com/) or Jekyll locally).
+**La villa des Luquettes vous accueille pour des vacances ressourçantes en famille ou entre amis !**
 
-## Develop
+**Jouissez du calme et de la beauté de la campagne, à proximité de la mer et des vignobles de Bandol.** 
+Laissez-vous bercer au bord de la piscine par le chant des cigales dans un jardin composé de nombreux oliviers, de figuiers, de grenadiers, d'amandiers et fleuri de lauriers roses, plumbagos et bougainvilliers. 
 
-Malt was built with [Jekyll](http://jekyllrb.com/) version 3.3.1, but should support newer versions as well.
+**Découvrez les merveilles de la région situées à une dizaine de minutes de voiture ou moins :*
 
-Install the dependencies with [Bundler](http://bundler.io/):
+- Les belles plages de sable des Lecques, de la Madrague ou de Bandol
+- Les charmants villages médiévaux perchés de la Cadière-d'Azur et du Castellet qui ont gardé leur authenticité provençale.
+- Les vignobles de Bandol, dont la plupart sont situés sur la commune de la Cadière-d'Azur. Ici le rosé est incontournable sur les tables d'été ! Les blancs sont aussi à découvrir et les rouges font d'excellents vins de garde.
 
-~~~bash
-$ bundle install
-~~~
+**Les amateurs de sport trouveront à proximité :
+- Toutes les activités nautiques (plongée, voile, kitesurf, paddle, pêche) sont évidemment faciles à pratiquer ! 
+- Une multitude de randonnées dans les calanques à partir de la Madrague, de Bandol, ou de Cassis pour découvrir criques turquoises et paysages sauvages. L'arrière pays est également riche en excursions !
+- Le circuit Paul Ricard du Castellet est un incontournable pour les passionnées de sport automobile. Il accueille chaque année en juin le Grand Prix de France de Formule 1.
+- Le Golf de la Frégate - 18 trous - est un des plus beaux parcours d'Europe.
 
-Run `jekyll` commands through Bundler to ensure you're using the right versions:
+A découvrir un tout petit peu plus loin :
+- Les extraordinaires calanques de Port d'Alon, de Figuerolles, de Port-Pin, de Port- Miou. 
+- Les charmants ports de Cassis et de Sanary avec les "pointus", bateaux traditionnels multicolores.
 
-~~~bash
-$ bundle exec jekyll serve
-~~~
 
-## Editing
+Et pour petits et grands :
+Découvrez le parc aquatique Aqualand situé à 10mn en voiture de la maison et le parc d'attraction OK Corral à 20mn de voiture.
 
-Malt is already optimised for updating pages, company details and footer elements in CloudCannon.
 
-## SEO Tag
+Description détaillée de la villa
 
-This site uses the [jekyll-seo-tag](https://github.com/jekyll/jekyll-seo-tag) plugin. You should at least set a title in front matter on each page. Have a look at the [project page](https://github.com/jekyll/jekyll-seo-tag) for more options.
+La maison est exposée plein sud ce qui est très agréable en été comme en hiver !
 
-## Google Analytics
+Au rez-de-chaussée vous trouverez 
+La chambre 1 (18 m2) avec un lit double de 160x200 et une armoire provençale 
+La chambre 2 (14 m2) avec 2 lits simples (80x190)
+La chambre 3 (15 m2) avec un lit double de 180x200 ou deux lite simples de 90x200
+Une salle de bain avec une baignoire d'angle, 2 lavabos et des toilettes
+Une salle de douche avec lavabo et toilettes
+Une grande cuisine équipée (20 m2)
+Une buanderie extérieure (17 m2) avec lave-linge, douche et toilettes.
+Un chalet (chambre 4) situé dans le jardin (12 m2) qui comporte un lit double de 140x200.
 
-[Google Analytics](https://www.google.com/analytics/) is a third party website analytics tool. To install:
+A l'étage
+Un grand salon (41 m2) avec une terrasse d'où on peut contempler une magnifique vue sur la campagne et sur le village de la Cadière-d'Azur
+La très spacieuse chambre 5 (26 m2) : avec un lit double de 160x200, de nombreux placards et 3 fenêtres (bow window) avec une vue magnifique
+La chambre 6 (12 m2) : avec un lit double de 140x200 et deux placards, dont un aménagé en coin lecture. 
+Chambre 7 (12m2) : avec un lit double de 160x200 ou deux lits simples de 80x200
+Une salle de douche avec douche  italienne et lavabo double vasque
+Des toilettes  indépendantes
 
-1. Add your Google Analytics key to `_config.yml`.
-2. Run your site in production `JEKYLL_ENV=production` (the default for CloudCannon and GitHub Pages).
+Extérieur
+Piscine 8 mètres sur 4 sécurisé par une barrières réglementaire "Beethoven" et portillon .
+Terrasses (40m2 et 20m2)
+Four à pizzas
+Barbecues
+Terrain de pétanque
+Table de ping-pong
 
-## EventBrite
+Enfant
+lit enfant parapluie avec matelas mousse
+Matelas à langer  
+chaise haute
 
-[EventBrite](https://www.eventbrite.com/) is a third party embeddable event module for websites. To install:
+Parking privé couvert pour 4 voitures. 
+Chaque chambre est équipée d'un ventilateur télécommandé. 
+Le Wifi est disponible avec une connexion ADSL Orange. 
 
-1. Create an event on EventBrite.
-2. Copy the Ticket Form embed code from the Widgets menu item.
-3. Paste it into `eventbrite_embed` in `_config.yml`.
+Accès :
+La maison est située à 5mn en voiture de la sortie 11 de l'autoroute A50 (mais on n'entend pas du tout l'autoroute de la maison  !)
+La gare SNCF la plus proche est Saint-Cyr - les Lecques - La Cadière. Elle est située à 7mn de voiture ou taxi de la villa des Luquettes. Cette gare permet de rejoindre rapidement celles de Marseille ou de Toulon.
 
-## Image gallery / Featured
+Proximité des commerces : 
+A moins de 5mn en voiture se trouve une coopérative de fruits et légumes locaux qui vous régalera de délicieux produits. 
+Le supermarché le plus proche se trouve à 8mn de voiture (à Saint-Cyr-sur-Mer) où on trouve également un marché et de nombreux commerces.
+Boulangeries et restaurants sont accessibles dans le centre ville historique du village de la Cadière d'Azur à 7mn en voiture.
 
-The image gallery is populated by a front matter array in `index.html`. To add items just copy the existing structure.
+Ménage obligatoire en fin de séjours : 140€
+
+La maison n'est pas adapté pour les fêtés et événement tel que : mariage ou anniversaires,...
+
+Visite interactive
+
+Une petite video des vues de la maison : ici
