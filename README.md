@@ -183,12 +183,19 @@ Less than 5mn by car is a local fruit and vegetable cooperative which will delig
 The nearest supermarket is 8mn by car (in Saint-Cyr-sur-Mer) where there is also a market and many shops.
 Bakeries and restaurants can be found in the historic centre of the village of La Cadière d'Azur, 7mn by car.
 
-Obligatory cleaning at the end of your stay: 140€.
-
 The house is not suitable for celebrations and events such as weddings or birthdays,...
 
 A small video of the views from the house:  [here](https://youtu.be/AcLem2M6H9)
 
+## Tarif 2023 
+|-|-|
+|Obligatory cleaning at the end of your stay <BR> Ménage obligatoire en fin de séjours|200€|
+|Prix par semaine basse saison | 2 930 €|
+|Prix par semaine haute saison (11/7-29/8) | 3 250,00 €|
+|Forfait WeekEnd (hors juillet et aout) du vendredi 16h au lundi 10h - ménage inclus (200€) | 1 200€|
+|A l'entré dans les lieux un chèque caution |1000€|
+
+disponibilité & reservation : leboncoins [here](https://www.leboncoin.fr/locations_gites/2278518995.htm)
 
 
 ## GALLERY
