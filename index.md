@@ -208,6 +208,8 @@ A small video of the views from the house:  [here](https://youtu.be/AcLem2M6H9)
 
 disponibilité & reservation : leboncoins [here](https://www.leboncoin.fr/locations_gites/2278518995.htm)
 
+Nous somme en mesure de prendre des réservations à partir de Février pour la saisons. 
+
 
 ## GALLERY
 
