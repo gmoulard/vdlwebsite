@@ -1,160 +1,40 @@
-safe: true
-lsi: false
-pygments: true
-simple_search: http://google.com/search
-markdown: kramdown
-paginate: 10
-kramdown:
-  extensions:
-    - autolink
-    - footnotes
-    - smart
-permalink: /:year/:month/:title.html
-relative_permalinks: false
-url: http://tigefa4u.github.io
-#url: http://localhost:2106
-#port: 2106
-#baseurl: /project-name
-name: tigefa4u.Github
-timezone:    Aisa/Jakarta
-# Themes are encouraged to use these universal variables 
-# so be sure to set them if your theme uses them.
-title : tigefa4u.Github
-tagline: love Github repositories
-author :
-  name : sugeng tigefa
-  email : tigefa@gmail.com
-  tumblr: tigefa
-  flickr: tigefa
-  github : tigefa4u
-  repository: tigefa4u.github.io
-  gittip: tigefa
-  twitter : tigefa_team
-  facebook: tigefa.team
-  feedburner : tigefa4ugithub
-  linkedin: tigefadotinfo
-  googleplus: tigefa
-  pinterest: tigefa
-  bitbucket: tigefa4u
-  stackoverflow: tigefa
+# Creative Theme for Jekyll
 
+A Jekyll implementation of the [Creative Theme](https://startbootstrap.com/theme/creative/) template by [Start Bootstrap](https://startbootstrap.com).
 
-# The production_url is only used when full-domain names are needed
-# such as sitemap.txt 
-# Most places will/should use BASE_PATH to make the urls
-#
-# If you have set a CNAME (pages.github.com) set your custom domain here.
-# Else if you are pushing to username.github.io, replace with your username.
-# Finally if you are pushing to a GitHub project page, include the project name at the end.
-#
-production_url : http://villadesluquettes.com
-# All Jekyll-Bootstrap specific configurations are namespaced into this hash
-#
-JB :
-  version : 0.3.0
+An attractive one page Bootstrap theme perfect for creative portfolios and businesses
 
-  # All links will be namespaced by BASE_PATH if defined.
-  # Links in your website should always be prefixed with {{BASE_PATH}}
-  # however this value will be dynamically changed depending on your deployment situation.
-  #
-  # CNAME (http://yourcustomdomain.com)
-  #   DO NOT SET BASE_PATH 
-  #   (urls will be prefixed with "/" and work relatively)
-  #
-  # GitHub Pages (http://username.github.io)
-  #   DO NOT SET BASE_PATH 
-  #   (urls will be prefixed with "/" and work relatively)
-  #
-  # GitHub Project Pages (http://username.github.io/project-name)
-  #
-  #   A GitHub Project site exists in the `gh-pages` branch of one of your repositories.
-  #  REQUIRED! Set BASE_PATH to: http://username.github.io/project-name
-  #
-  # CAUTION:
-  #   - When in Localhost, your site will run from root "/" regardless of BASE_PATH
-  #   - Only the following values are falsy: ["", null, false]
-  #   - When setting BASE_PATH it must be a valid url.
-  #     This means always setting the protocol (http|https) or prefixing with "/"
-  BASE_PATH : http://tigefa4u.github.io
+Based on Creative Theme v7.0.7 and Bootstrap v5.2.3.
 
-  # By default, the asset_path is automatically defined relative to BASE_PATH plus the enabled theme.
-  # ex: [BASE_PATH]/assets/themes/[THEME-NAME]
-  #
-  # Override this by defining an absolute path to assets here.
-  # ex: 
-  #   http://s3.amazonaws.com/yoursite/themes/watermelon
-  #   /assets
-  #
-  ASSET_PATH : false
+## To use the Creative Theme template in your project
 
-  # These paths are to the main pages Jekyll-Bootstrap ships with.
-  # Some JB helpers refer to these paths; change them here if needed.
-  #
-  archive_path: /archive.html
-  categories_path : /categories.html
-  tags_path : /tags.html
-  atom_path : /atom.xml
-  rss_path : /rss.xml
+Creating a site with this particular Jekyll theme, is basically writing a markdown site.
 
-  # Settings for comments helper
-  # Set 'provider' to the comment provider you want to use.
-  # Set 'provider' to false to turn commenting off globally.
-  #
-  comments :
-    provider : disqus
-    disqus :
-      short_name : tigefa
-#    livefyre :
-#      site_id : 123
-#    intensedebate :
-#      account : 123abc
-#    facebook :
-#      appid : 123
-#      num_posts: 5
-#      width: 590
-#      colorscheme: light
-   
-  # Settings for analytics helper
-  # Set 'provider' to the analytics provider you want to use.
-  # Set 'provider' to false to turn analytics off globally.
-  #        
-  analytics :
-    provider : google 
-    google : 
-        tracking_id : 'UA-29791208-6'
-#    getclicky :
-#      site_id : 
-#    mixpanel :
-#        token : '_MIXPANEL_TOKEN_'
-#    piwik :
-#        baseURL : 'localhost/piwik' # Piwik installation address (without protocol)
-#        idsite : '1'                   # the id of the site on Piwik
+- Start by adding your info in `_config.yml`.
+- Don't forget to change `_data/footer.yml` to update the copyright.
+- In `index.md` reorder or remove section as you prefer.
+- You can also add other pages, like `links.md`.
+- Edit `_data/menus.yml` to add links in the navigation bar.
 
-  # Settings for sharing helper. 
-  # Sharing is for things like tweet, plusone, like, reddit buttons etc.
-  # Set 'provider' to the sharing provider you want to use.
-  # Set 'provider' to false to turn sharing off globally.
-  # options ipost sharethis shareholic addthis
-  sharing :
-    provider : shareholic
+# Credits
+* This work is heavily inspired by https://github.com/volny/creative-theme-jekyll.
+* Timeline template is based on https://github.com/anbasile/pickmeup.
+* Timeline end image is taken from http://bsvp.in/join-us/.
+* People Images computer-generated by https://www.thispersondoesnotexist.com/.
+* People names generated by https://www.fakenamegenerator.com/.
+* Links page background from https://www.rawpixel.com/.
 
-# Settings for themes with bootswatch.com
-# Set 'provider' to the themes provider you want to use.
-# Set 'provider' to false to turn sharing off globally.
-# Aviable themes slate cyborg flatly local cerulean simplex readable cosmo journal spacelab united
-# view all demo themes http://bootswatch.com
-# For local browsing without internet please set 'provider' local
-  themes:
-    provider: slate
-    
-  # Settings for all other include helpers can be defined by creating 
-  # a hash with key named for the given helper. ex:
-  #
-  #   pages_list :
-  #     provider : "custom"   
-  #
-  # Setting any helper's provider to 'custom' will bypass the helper code
-  # and include your custom code. Your custom file must be defined at:
-  #   ./_includes/custom/[HELPER]
-  # where [HELPER] is the name of the helper you are overriding.
-exclude: ["node_modules", "tigefa.jquery.json", "deploy.cmd", "composer.json", "circle.yml", "README", "iron.json", "bower.json", "params.json", ".coveralls.yml", ".travis.yml", ".gitignore", ".gitattributes", ".gitmodules", "README.md", "LICENSE", "Rakefile", "CHANGELOG.md", "Gemfile", "Gemfile.lock"]
+# Development
+If you want to use this template, or enhance it, you can use Docker.
+Just run './build-in-docker.sh' and then point your browser to http://localhost:4000/.
+
+Note: Developing for github pages is tricky. You should always rely on
+[safe plugins](https://pages.github.com/versions/) because any other, that's not
+in the list will simply not run.
+
+# Good Ideas
+* Contacts submit form example
+  * https://github.com/Codevelopr/codevelopr.github.io/
+  * https://jekyllrb.com/resources/#forms
+* Table of contents example
+  * https://github.com/fedenunez/fedenunez.github.io

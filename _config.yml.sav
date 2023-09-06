@@ -1,0 +1,17 @@
+# see : https://docs.github.com/fr/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll
+lsi: false
+safe: true
+source: https://github.com/gmoulard/vdlwebsite
+incremental: false
+highlighter: rouge
+gist:
+  noscript: false
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
+  extensions:
+    - autolink
+    - footnotes
+    - smart
+#url: http://tigefa4u.github.io
+name: Villa des Luquettes
