@@ -7,8 +7,6 @@ header:
   action: # action button is optional
     label: Description de Francais
     url: '#aboutFR'
-  text: >
-    Family villa with swimming pool in the beautiful Provencal countryside of the Cadière-d’Azur ideal for families (220m2, 7 bedrooms, sleeps 14)
   action: # action button is optional
     label: Description in English
     url: '#aboutUS'
