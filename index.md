@@ -75,6 +75,9 @@ La maison est exposée plein sud ce qui est très agréable en été comme en hi
 - Terrain de pétanque
 - Table de ping-pong
 
+Nous privilégions un aspect naturel dans notre jardin, en plantant des arbres fruitiers, des fleurs et en aménageant des sentiers. Cette approche de jardinage durable favorise la croissance de plantes indigènes et contribue à la préservation de l'environnement. Notre jardin est conçu de manière à offrir à la fois des zones de passage et des zones de végétation plus sauvage, créant ainsi un contraste visuel intéressant. Dans notre région, cette approche permet une utilisation raisonée de l'eau pour l'arrosage
+
+
 #### Enfant
 
 - lit enfant parapluie avec matelas mousse
@@ -168,6 +171,10 @@ The house is south-facing which is very pleasant in summer and winter!
 - Barbecues
 - Petanque
 - Ping-pong table 
+
+
+We prioritize a natural aspect in our garden by planting fruit trees, flowers, and creating pathways. This sustainable gardening approach promotes the growth of native plants and contributes to environmental preservation. Our garden is designed to include both pathways and areas of wild vegetation, creating an interesting visual contrast. In our region, this approach allows for a rational use of water for irrigation.
+
 
 #### Child
 
