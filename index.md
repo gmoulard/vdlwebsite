@@ -88,7 +88,7 @@ Parking privé couvert pour 4 voitures.
 
 Chaque chambre est équipée d'un ventilateur télécommandé. 
 
-Le Wifi est disponible avec une connexion ADSL Orange. 
+Le Wifi est disponible avec une connexion  fibre.
 
 #### Accès 
 
@@ -186,7 +186,7 @@ Private covered parking for 4 cars.
 
 Each room is equipped with a remote controlled fan. 
 
-Wifi is available with an Orange ADSL connection.  
+Wifi is available with an fiber connection.  
 
 
 #### How to get there
