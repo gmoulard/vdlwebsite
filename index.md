@@ -204,9 +204,9 @@ The house is not suitable for celebrations and events such as weddings or birthd
 
 A small video of the views from the house:  [here](https://youtu.be/AcLem2M6H9)
 
-## Tarif 2023
+## Tarif 2023 / 2024
 
-|Tarif|2023 / 2024|
+|Tarif||
 |-|-|
 |Obligatory cleaning at the end of your stay <BR> Ménage obligatoire en fin de séjours|200€|
 |Price per week low season<BR>Prix par semaine basse saison|2 930 €|
