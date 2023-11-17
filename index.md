@@ -75,6 +75,9 @@ La maison est exposée plein sud ce qui est très agréable en été comme en hi
 - Terrain de pétanque
 - Table de ping-pong
 
+Nous privilégions un aspect naturel dans notre jardin, en plantant des arbres fruitiers, des fleurs et en aménageant des sentiers. Cette approche de jardinage durable favorise la croissance de plantes indigènes et contribue à la préservation de l'environnement. Notre jardin est conçu de manière à offrir à la fois des zones de passage et des zones de végétation plus sauvage, créant ainsi un contraste visuel intéressant. Dans notre région, cette approche permet une utilisation raisonée de l'eau pour l'arrosage
+
+
 #### Enfant
 
 - lit enfant parapluie avec matelas mousse
@@ -85,7 +88,7 @@ Parking privé couvert pour 4 voitures.
 
 Chaque chambre est équipée d'un ventilateur télécommandé. 
 
-Le Wifi est disponible avec une connexion ADSL Orange. 
+Le Wifi est disponible avec une connexion  fibre.
 
 #### Accès 
 
@@ -169,6 +172,10 @@ The house is south-facing which is very pleasant in summer and winter!
 - Petanque
 - Ping-pong table 
 
+
+We prioritize a natural aspect in our garden by planting fruit trees, flowers, and creating pathways. This sustainable gardening approach promotes the growth of native plants and contributes to environmental preservation. Our garden is designed to include both pathways and areas of wild vegetation, creating an interesting visual contrast. In our region, this approach allows for a rational use of water for irrigation.
+
+
 #### Child
 
 - Child's bed with foam mattress  
@@ -179,7 +186,7 @@ Private covered parking for 4 cars.
 
 Each room is equipped with a remote controlled fan. 
 
-Wifi is available with an Orange ADSL connection.  
+Wifi is available with an fiber connection.  
 
 
 #### How to get there
@@ -197,17 +204,22 @@ The house is not suitable for celebrations and events such as weddings or birthd
 
 A small video of the views from the house:  [here](https://youtu.be/AcLem2M6H9)
 
-## Tarif 2023
+## Tarif 2023 / 2024
 
-|Tarif|2023|
+|Tarif||
 |-|-|
 |Obligatory cleaning at the end of your stay <BR> Ménage obligatoire en fin de séjours|200€|
 |Price per week low season<BR>Prix par semaine basse saison|2 930 €|
 |Price per week high season (11/7-29/8)<BR>Prix par semaine haute saison (11/7-29/8)|3 250 €|
 |WeekEnd package (except July and August) from Friday 4 p.m. to Monday 10 a.m. - cleaning included (200€)<BR>Forfait WeekEnd (hors juillet et aout) du vendredi 16h au lundi 10h - ménage inclus (200€) |1 200€|
+|by night (min 2 nights)(except July and August) from 4 p.m. to 10 a.m. <BR> Prix à la nuit (Min 2 nuits)(hors juillet et aout) de 16h au 10h |461€|
 |At the entrance to the premises a deposit check<BR>A l'entré dans les lieux un chèque caution |1 000€|
+|The rental does not include sheets or towels<BR>La locaton n'incluts ni draps ni serviette||
 
-disponibilité & reservation : leboncoins [here](https://www.leboncoin.fr/locations_gites/2278518995.htm)
+
+disponibilité & reservation : [leboncoin](https://www.leboncoin.fr/locations_gites/2278518995.htm)
+[AirBnB] (airbnb.com/h/villadesluquettes)
+
 
 Nous somme en mesure de prendre des réservations à partir de Février pour la saisons. 
 
@@ -262,5 +274,9 @@ Nous somme en mesure de prendre des réservations à partir de Février pour la 
 
 **M. Moulard Mme Renaudin** Chemin des luquettes, 83740 La Cad=ière d'Azure - France
 
-+33 6 30 50 40 19 
++33 6 30 51 40 19 
+
+
+
+
 
