@@ -226,6 +226,8 @@ Nous somme en mesure de prendre des réservations à partir de Février pour la 
 
 ## GALLERY
 
+![](img/Plan.JPG)
+
 ### ground floor
 
 
@@ -264,7 +266,10 @@ Nous somme en mesure de prendre des réservations à partir de Février pour la 
 ![](img/Graph1.jpg)
 ![](img/Graph2.jpg)
 ![](img/IMG-20190804-WA0009.jpg)
+![](img/Terrasse40m.JPG)
+![](img/Terrasse20m.JPG)
 ![](img/IMG-20191003-WA0002.jpg)
+
 
 
 [](img/Plan.JPG)
