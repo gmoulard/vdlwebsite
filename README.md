@@ -38,3 +38,6 @@ in the list will simply not run.
   * https://jekyllrb.com/resources/#forms
 * Table of contents example
   * https://github.com/fedenunez/fedenunez.github.io
+
+
+# dns on google DNS : https://dev.to/trentyang/how-to-setup-google-domain-for-github-pages-1p58
