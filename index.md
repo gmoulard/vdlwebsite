@@ -6,8 +6,8 @@ Villa familiale avec piscine dans la belle campagne provençale de la Cadière-d
 
 ![](img/DSC_0068_6.JPG)
 
-
-## -- fr --
+##Francais)
+[English](#english)
 
 #### La villa des Luquettes vous accueille pour des vacances ressourçantes en famille ou entre amis !
 
@@ -38,7 +38,7 @@ Laissez-vous bercer au bord de la piscine par le chant des cigales dans un jardi
 Découvrez le parc aquatique Aqualand situé à 10mn en voiture de la maison et le parc d'attraction OK Corral à 20mn de voiture.
 
 
-### Description détaillée de la villa
+## Description détaillée de la villa
 
 La maison est exposée plein sud ce qui est très agréable en été comme en hiver !
 
@@ -102,7 +102,8 @@ Une petite video des vues de la maison : [ici](https://youtu.be/AcLem2M6H9o)
 
 
 
-### -- en --
+## English
+[French](#Francais)
 
 #### Family villa with swimming pool in the beautiful Provencal countryside of the Cadière-d'Azur ideal for families (220m2, 7 bedrooms, sleeps 14)
  
@@ -135,7 +136,7 @@ Une petite video des vues de la maison : [ici](https://youtu.be/AcLem2M6H9o)
 Discover the Aqualand water park located 10mn by car from the house and the OK Corral amusement park 20mn by car away.
 
 
-### Detailed description of the villa
+## Detailed description of the villa
 
 The house is south-facing which is very pleasant in summer and winter!
 
@@ -269,12 +270,14 @@ Nous somme en mesure de prendre des réservations à partir de Février pour la 
 
 
 
-[](img/Plan.JPG)
+![](img/Plan.JPG)
 
 
 ### CONTACT
 
-[](img/qrcode.jpg)
+![](img/qrcode.jpg)
+
+
 
 
 
