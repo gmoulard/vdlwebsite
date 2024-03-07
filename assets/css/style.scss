@@ -3,11 +3,19 @@
 
 @import "{{ site.theme }}";
 
-
 h1{
     text-align: center;
     font-size: 24px;
     text-decoration: underline;
+    }
+
+    
+h1::after{
+      content: ""; /* Ajoute un élément pseudo-élément pour représenter le trait */
+      display: block;
+      width: 100%; /* Ajustez cette valeur pour définir la largeur du trait en pourcentage de la largeur du conteneur parent */
+      border-bottom: 4px solid #000; /* Épaisseur du trait */
+      margin-top: 8px; /* Espace entre le texte et le trait */
     }
 
 h2 {
