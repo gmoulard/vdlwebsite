@@ -6,8 +6,7 @@ Villa familiale avec piscine dans la belle campagne provençale de la Cadière-d
 
 ![](img/DSC_0068_6.JPG)
 
-##Francais
-
+## Francais
 [English](#english)
 
 #### La villa des Luquettes vous accueille pour des vacances ressourçantes en famille ou entre amis !
