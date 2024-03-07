@@ -1,39 +1,39 @@
 
 # Villa des Luquettes
 
-**Villa familiale avec piscine dans la belle campagne provençale de la Cadière-d'Azur idéale pour 2 familles (220m2, 7 chambres, 14 couchages) 1542F Chemin des Luquettes, La Cadière-d'Azur**
+Villa familiale avec piscine dans la belle campagne provençale de la Cadière-d'Azur idéale pour 2 familles (220m2, 7 chambres, 14 couchages) 1542F Chemin des Luquettes, La Cadière-d'Azur
 
 
 ![](img/DSC_0068_6.JPG)
 
 
-### -- fr --
+## -- fr --
 
-**La villa des Luquettes vous accueille pour des vacances ressourçantes en famille ou entre amis !**
+#### La villa des Luquettes vous accueille pour des vacances ressourçantes en famille ou entre amis !
 
-**Jouissez du calme et de la beauté de la campagne, à proximité de la mer et des vignobles de Bandol.** 
+#### Jouissez du calme et de la beauté de la campagne, à proximité de la mer et des vignobles de Bandol.** 
 Laissez-vous bercer au bord de la piscine par le chant des cigales dans un jardin composé de nombreux oliviers, de figuiers, de grenadiers, d'amandiers et fleuri de lauriers roses, plumbagos et bougainvilliers. 
 
-**Découvrez les merveilles de la région situées à une dizaine de minutes de voiture ou moins**
+#### Découvrez les merveilles de la région situées à une dizaine de minutes de voiture ou moins
 
 - Les belles plages de sable des Lecques, de la Madrague ou de Bandol
 - Les charmants villages médiévaux perchés de la Cadière-d'Azur et du Castellet qui ont gardé leur authenticité provençale.
 - Les vignobles de Bandol, dont la plupart sont situés sur la commune de la Cadière-d'Azur. Ici le rosé est incontournable sur les tables d'été ! Les blancs sont aussi à découvrir et les rouges font d'excellents vins de garde.
 
-**Les amateurs de sport trouveront à proximité**
+#### Les amateurs de sport trouveront à proximité
 
 - Toutes les activités nautiques (plongée, voile, kitesurf, paddle, pêche) sont évidemment faciles à pratiquer ! 
 - Une multitude de randonnées dans les calanques à partir de la Madrague, de Bandol, ou de Cassis pour découvrir criques turquoises et paysages sauvages. L'arrière pays est également riche en excursions !
 - Le circuit Paul Ricard du Castellet est un incontournable pour les passionnées de sport automobile. Il accueille chaque année en juin le Grand Prix de France de Formule 1.
 - Le Golf de la Frégate - 18 trous - est un des plus beaux parcours d'Europe.
 
-**A découvrir un tout petit peu plus loin**
+#### A découvrir un tout petit peu plus loin
 
 - Les extraordinaires calanques de Port d'Alon, de Figuerolles, de Port-Pin, de Port- Miou. 
 - Les charmants ports de Cassis et de Sanary avec les "pointus", bateaux traditionnels multicolores.
 
 
-**Et pour petits et grands**
+#### Et pour petits et grands
 
 Découvrez le parc aquatique Aqualand situé à 10mn en voiture de la maison et le parc d'attraction OK Corral à 20mn de voiture.
 
@@ -104,33 +104,33 @@ Une petite video des vues de la maison : [ici](https://youtu.be/AcLem2M6H9o)
 
 ### -- en --
 
-**Family villa with swimming pool in the beautiful Provencal countryside of the Cadière-d'Azur ideal for families (220m2, 7 bedrooms, sleeps 14)**
+#### Family villa with swimming pool in the beautiful Provencal countryside of the Cadière-d'Azur ideal for families (220m2, 7 bedrooms, sleeps 14)
  
 
-**The villa des Luquettes welcomes you for a revitalizing holiday with family or friends!**
+#### The villa des Luquettes welcomes you for a revitalizing holiday with family or friends!
 
-**Enjoy the calm and beauty of the countryside, near the sea and the vineyards of Bandol.** Let yourself be lulled by the song of cicadas by the poolside in a garden composed of many olive trees, fig trees, pomegranate trees, almond trees and flowering oleanders, plumbagos and bougainvilleas. 
+#### Enjoy the calm and beauty of the countryside, near the sea and the vineyards of Bandol.** Let yourself be lulled by the song of cicadas by the poolside in a garden composed of many olive trees, fig trees, pomegranate trees, almond trees and flowering oleanders, plumbagos and bougainvilleas. 
 
-**Discover the wonders of the region located about a ten minute's drive away**
+#### Discover the wonders of the region located about a ten minute's drive away
 
 - The beautiful sandy beaches of Les Lecques, La Madrague or Bandol.
 - The charming perched medieval villages of Cadière-d'Azur and Castellet which have kept their Provencal authenticity.
 - The vineyards of Bandol, most of which are located in the commune of Cadière-d'Azur. Here the rosé is a must on warm summer days! The white wines are also to be discovered and the reds make excellent wines for bringing home to enjoy in the future.
 
-**Sports enthusiasts will find nearby** 
+#### Sports enthusiasts will find nearby** 
 
 - All water activities (diving, sailing, kitesurfing, paddle, fishing) are obviously easy to practice! 
 - A multitude of hikes in the creeks from the Madrague, Bandol, or Cassis to discover turquoise creeks and wild landscapes. The wilderness is also rich in excursions!
 - The circuit Paul Ricard du Castellet racetrack is a must for motorsport enthusiasts. Every year in June, it hosts the Formula 1 French Grand Prix.
 - The Golf de la Frégate - 18 holes - is one of the most beautiful courses in Europe.
 
-**To be discovered a little further away**
+#### To be discovered a little further away
 
 - The extraordinary creeks of Port d'Alon, Figuerolles, Port-Pin, Port- Miou. 
 - The charming ports of Cassis and Sanary with the "pointus", traditional multicoloured boats.
 
 
-**And for young and old**
+#### And for young and old
 
 Discover the Aqualand water park located 10mn by car from the house and the OK Corral amusement park 20mn by car away.
 
@@ -190,7 +190,7 @@ Wifi is available with an fiber connection.
 The house is located 5mn by car from exit 11 of the A50 motorway (but you can't hear the motorway from the house at all!).
 The nearest train station is Saint-Cyr - les Lecques - La Cadière. It is located 7mn by car or taxi from the villa des Luquettes. This station allows you to quickly join the hightways those of Marseille or Toulon.
 
-**Close to the chops**
+#### Close to the chops
 
 Less than 5mn by car is a local fruit and vegetable cooperative which will delight you with delicious products. 
 The nearest supermarket is 8mn by car (in Saint-Cyr-sur-Mer) where there is also a market and many shops.
@@ -274,7 +274,7 @@ Nous somme en mesure de prendre des réservations à partir de Février pour la 
 
 ### CONTACT
 
-**M. Moulard Mme Renaudin** Chemin des luquettes, 83740 La Cad=ière d'Azure - France
+#### M. Moulard Mme Renaudin** Chemin des luquettes, 83740 La Cad=ière d'Azure - France
 
 +33 6 30 51 40 19 
 
