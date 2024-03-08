@@ -100,7 +100,7 @@ La maison n'est pas adapté pour les fêtés et événement tel que : mariage ou
 
 Une petite video des vues de la maison : [ici](https://youtu.be/AcLem2M6H9o)
 
-### Les Jardins 
+### Jardin 
 #### Le jardin libre ou punk
 Derrière les Cycas entre la piscine et le chalet pour protéger la végétation en été nous créons un jardin dans lequel nous passons la tondeuse à minima. Seuls les chemins sont tracés. Le reste est laissé libre toute l'année de manière à ne pas être brûlé l'été.
 #### Le jardin sec
