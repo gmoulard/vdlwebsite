@@ -4,6 +4,10 @@
 
 document.write(navigator.language);
 
+</script>
+
+
+<script type="type/javascript">
 
 $( document ).ready(function(){
     var userLang = navigator.language || navigator.userLanguage;
