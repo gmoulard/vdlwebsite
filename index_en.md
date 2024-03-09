@@ -119,7 +119,7 @@ Nous somme en mesure de prendre des réservations à partir de Février pour la 
 
 
 <script>
-   document.write(navigator.language);
+document.write(navigator.language);
 </script>
 
 

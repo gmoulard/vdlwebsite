@@ -2,11 +2,15 @@
 
 <script>
 
+document.write(navigator.language);
+
 if ( navigator.language == 'fr-FR')
 {
-    document.location.href = "/index_fr"
+    document.write("fr");
+    //document.location.href = "/index_fr"
 } else {
-    document.location.href = "/index_en"
+    document.write("other");
+    //document.location.href = "/index_en"
 }
 </script>
 
