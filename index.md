@@ -213,18 +213,7 @@ The house is not suitable for celebrations and events such as weddings or birthd
 
 A small video of the views from the house:  [here](https://youtu.be/AcLem2M6H9)
 
-## Tarif 2023 / 2024
-
-|Tarif||
-|-|-|
-|Obligatory cleaning at the end of your stay <BR> Ménage obligatoire en fin de séjours|200€|
-|Price per week low season<BR>Prix par semaine basse saison|2 930 €|
-|Price per week high season (11/7-29/8)<BR>Prix par semaine haute saison (11/7-29/8)|3 250 €|
-|WeekEnd package (except July and August) from Friday 4 p.m. to Monday 10 a.m. - cleaning included (200€)<BR>Forfait WeekEnd (hors juillet et aout) du vendredi 16h au lundi 10h - ménage inclus (200€) |1 200€|
-|by night (min 2 nights)(except July and August) from 4 p.m. to 10 a.m. <BR> Prix à la nuit (Min 2 nuits)(hors juillet et aout) de 16h au 10h |461€|
-|At the entrance to the premises a deposit check<BR>A l'entré dans les lieux un chèque caution |1 000€|
-|The rental does not include sheets or towels<BR>La locaton n'incluts ni draps ni serviette||
-
+{% include prix.md %}
 
 disponibilité & reservation : [leboncoin](https://www.leboncoin.fr/locations_gites/2278518995.htm)
 [AirBnB](airbnb.com/h/villadesluquettes)
@@ -232,58 +221,7 @@ disponibilité & reservation : [leboncoin](https://www.leboncoin.fr/locations_gi
 
 Nous somme en mesure de prendre des réservations à partir de Février pour la saisons. 
 
-
-## GALLERY
-
-![](img/Plan.JPG)
-
-### ground floor
-
-
-![](img/Cuisine.JPG)
-![](img/C1jours.JPG)
-![](Terrasse20m.JPG)
-![](Terrasse40m.JPG)
-
-![](img/C1.JPG)
-![](img/C2.JPG)
-![](img/C3.JPG)
-![](SDB_RDC.JPG)
-![](SDD_RDC.JPG)
-
-### Upstairs
-
-![](img/C5.JPG)
-![](img/C5_2.JPG)
-![](img/C6.JPG)
-![](img/C7.JPG)
-![](img/Salon1.JPG)
-![](img/Salon2JPG.JPG)
-![](SDB_Haut.JPG)
-![](IMG_5458.jpg)
-![](Toilette-Chat.jpg)
-
-### Exterior
-
-![](img/C4.JPG)
-![](img/C4_Exterieure.JPG)
-![](img/Campagne.jpg)
-![](img/Piscine.JPG)
-![](PiscineJoie.jpg)
-![](img/DSC_0066_6.JPG)
-![](img/DSC_0068_6.JPG)
-![](img/Graph1.jpg)
-![](img/Graph2.jpg)
-![](img/IMG-20190804-WA0009.jpg)
-![](img/salonMarocain.jpg)
-![](img/Terrasse40m.JPG)
-![](img/Terrasse20m.JPG)
-![](img/IMG-20191003-WA0002.jpg)
-
-
-
-![](img/Plan.JPG)
-
+{% include galery.md %}
 
 ### CONTACT
 
