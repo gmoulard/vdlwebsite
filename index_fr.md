@@ -11,7 +11,7 @@ Villa familiale avec piscine dans la belle campagne provençale de la Cadière-d
 
 #### La villa des Luquettes vous accueille pour des vacances ressourçantes en famille ou entre amis !
 
-#### Jouissez du calme et de la beauté de la campagne, à proximité de la mer et des vignobles de Bandol.** 
+#### Jouissez du calme et de la beauté de la campagne, à proximité de la mer et des vignobles de Bandol.
 Laissez-vous bercer au bord de la piscine par le chant des cigales dans un jardin composé de nombreux oliviers, de figuiers, de grenadiers, d'amandiers et fleuri de lauriers roses, plumbagos et bougainvilliers. 
 
 #### Découvrez les merveilles de la région situées à une dizaine de minutes de voiture ou moins
