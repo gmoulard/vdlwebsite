@@ -1,9 +1,8 @@
 
 
 <script>
-document.write(navigator.language);
 
-if (document.write(navigator.language) == 'fr-FR')
+if ( navigator.language == 'fr-FR')
 {
     document.location.href = "/index_fr"
 } else {
@@ -11,4 +10,3 @@ if (document.write(navigator.language) == 'fr-FR')
 }
 </script>
 
-{% include_relative index_fr.md %}
