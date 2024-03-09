@@ -213,7 +213,7 @@ The house is not suitable for celebrations and events such as weddings or birthd
 
 A small video of the views from the house:  [here](https://youtu.be/AcLem2M6H9)
 
-{% include prix.md %}
+{% include_relative prix.md %}
 
 disponibilité & reservation : [leboncoin](https://www.leboncoin.fr/locations_gites/2278518995.htm)
 [AirBnB](airbnb.com/h/villadesluquettes)
@@ -221,7 +221,7 @@ disponibilité & reservation : [leboncoin](https://www.leboncoin.fr/locations_gi
 
 Nous somme en mesure de prendre des réservations à partir de Février pour la saisons. 
 
-{% include galery.md %}
+{% include_relative galery.md %}
 
 ### CONTACT
 
