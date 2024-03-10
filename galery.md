@@ -44,7 +44,4 @@
 ![](img/Terrasse40m.JPG)
 ![](img/Terrasse20m.JPG)
 ![](img/IMG-20191003-WA0002.jpg)
-![](img/Plan.JPG)
-
-
 
