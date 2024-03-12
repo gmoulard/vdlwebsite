@@ -109,9 +109,9 @@ En arrivant à la maison sur la gauche se trouve le jardin sec. Il et constitué
 #### Le mini Jardin
 À la sortie du réservoir au-dessus du mur. Nous avons créé un mini jardin avec quelques succulente et autre mini plante.
 #### L’oliverais
-Sur la restanque haute se trouve les Oliviers. Les bonnes années, ils nous produisent plus de 100 kilos d'olives ce qui peut faire de 12 à 15 litres d'huile délicieuse. Nous les faisons presser au moulin de la Malisonne. Comme pour le jardin sec la tonte et raisonner. Pour que vous se trouve ce qui peut-être un jour sera un potager.
+Sur la restanque haute se trouve les Oliviers. Les bonnes années, ils nous produisent plus de 100 kilos d'olives ce qui peut faire de 12 à 15 litres d'huile délicieuse. Nous les faisons presser au moulin de la Malisonne. Comme pour le jardin sec la tonte et raisonnée. Pour que vous se trouve ce qui peut-être un jour sera un potager.
 #### Le jardin gourmand
-Le jardin produit beaucoup de fruits. Les Figues son généralement bonne au début des mois de juillet et de septembre. Attention de ne pas vous piquez avec les figues de barbarie. Les Grenade son mure en octobre et les amandes fin aout. Les agrumes égrènent les saisons, nous avons des bigarade (oranges amères), les citrons, les clémentines. Bientôt nous espérons aussi avoir, des pamplemousses, des oranges douces. 
+Le jardin produit beaucoup de fruits. Les Figues sont généralement bonne au début des mois de juillet et de septembre. Attention de ne pas vous piquez avec les figues de barbarie. Les Grenade son mure en octobre et les amandes fin aout. Les agrumes égrènent les saisons, nous avons des bigarade (oranges amères), les citrons, les clémentines. Bientôt nous espérons aussi avoir, des pamplemousses, des oranges douces. 
 
 
 
