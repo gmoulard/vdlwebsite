@@ -102,7 +102,19 @@ The house is not suitable for celebrations and events such as weddings or birthd
 
 A small video of the views from the house:  [here](https://youtu.be/AcLem2M6H9)
 
-{% include_relative prix.md %}
+
+## Tarif 2023 / 2024
+
+|Tarif||
+|-|-|
+|Obligatory cleaning at the end of your stay |200€|
+|Price per week low season|2 930 €|
+|Price per week high season (11/7-29/8)|3 250 €|
+|WeekEnd package (except July and August) from Friday 4 p.m. to Monday 10 a.m. - cleaning included (200€) |1 200€|
+|by night (min 2 nights)(except July and August) from 4 p.m. to 10 a.m. |461€|
+|At the entrance to the premises a deposit check |1 000€|
+|The rental does not include sheets or towels||
+
 
 disponibilité & reservation : [leboncoin](https://www.leboncoin.fr/locations_gites/2278518995.htm)
 [AirBnB](airbnb.com/h/villadesluquettes)
