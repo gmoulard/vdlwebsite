@@ -102,6 +102,17 @@ The house is not suitable for celebrations and events such as weddings or birthd
 
 A small video of the views from the house:  [here](https://youtu.be/AcLem2M6H9)
 
+### Garden
+#### The free or punk garden
+Behind the Cycas between the swimming pool and the chalet to protect the vegetation in summer we create a garden in which we pass the mower at a minimum. Only the paths are traced. The rest is left free all year round so as not to be burned in summer.
+#### The dry garden
+Arriving at the house on the left is the dry garden. It is made up of Mediterranean plants typical of our hills. Yucca Elephantipes, Cactus, Agave, Aloes, Aster, Bitter Orange and other witch's claw.
+#### The mini garden
+At the outlet of the tank above the wall. We created a mini garden with some succulents and other mini plants.
+#### The olive grove
+On the upper terrace are the Oliviers. In good years, they produce more than 100 kilos of olives which can make 12 to 15 liters of delicious oil. We have them pressed at the Malisonne mill. As for the dry garden, mowing is reasonable. So that you find what perhaps one day will be a vegetable garden.
+#### The gourmet garden
+The garden produces a lot of fruit. Figs are generally good at the beginning of July and September. Be careful not to prick yourself with the prickly pears. The pomegranates ripen in October and the almonds at the end of August. Citrus fruits mark the seasons, we have bigarade (bitter oranges), lemons, clementines. Soon we also hope to have grapefruits and sweet oranges.
 
 ## Tarif 2023 / 2024
 
