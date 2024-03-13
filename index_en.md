@@ -71,9 +71,6 @@ The house is south-facing which is very pleasant in summer and winter!
 - Ping-pong table 
 
 
-We prioritize a natural aspect in our garden by planting fruit trees, flowers, and creating pathways. This sustainable gardening approach promotes the growth of native plants and contributes to environmental preservation. Our garden is designed to include both pathways and areas of wild vegetation, creating an interesting visual contrast. In our region, this approach allows for a rational use of water for irrigation.
-
-
 #### Child
 
 - Child's bed with foam mattress  
@@ -103,6 +100,9 @@ The house is not suitable for celebrations and events such as weddings or birthd
 A small video of the views from the house:  [here](https://youtu.be/AcLem2M6H9)
 
 ### Garden
+
+We prioritize a natural aspect in our garden by planting fruit trees, flowers, and creating pathways. This sustainable gardening approach promotes the growth of native plants and contributes to environmental preservation. Our garden is designed to include both pathways and areas of wild vegetation, creating an interesting visual contrast. In our region, this approach allows for a rational use of water for irrigation.
+
 #### The free or punk garden
 Behind the Cycas between the swimming pool and the chalet to protect the vegetation in summer we create a garden in which we pass the mower at a minimum. Only the paths are traced. The rest is left free all year round so as not to be burned in summer.
 #### The dry garden

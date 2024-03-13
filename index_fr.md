@@ -72,9 +72,6 @@ La maison est exposée plein sud ce qui est très agréable en été comme en hi
 - Terrain de pétanque
 - Table de ping-pong
 
-Nous privilégions un aspect naturel dans notre jardin, en plantant des arbres fruitiers, des fleurs et en aménageant des sentiers. Cette approche de jardinage durable favorise la croissance de plantes indigènes et contribue à la préservation de l'environnement. Notre jardin est conçu de manière à offrir à la fois des zones de passage et des zones de végétation plus sauvage, créant ainsi un contraste visuel intéressant. Dans notre région, cette approche permet une utilisation raisonée de l'eau pour l'arrosage
-
-
 #### Enfant
 
 - lit enfant parapluie avec matelas mousse
@@ -102,6 +99,7 @@ La maison n'est pas adapté pour les fêtés et événement tel que : mariage ou
 Une petite video des vues de la maison : [ici](https://youtu.be/AcLem2M6H9o)
 
 ### Jardin 
+Nous privilégions un aspect naturel dans notre jardin, en plantant des arbres fruitiers, des fleurs et en aménageant des sentiers. Cette approche de jardinage durable favorise la croissance de plantes indigènes et contribue à la préservation de l'environnement. Notre jardin est conçu de manière à offrir à la fois des zones de passage et des zones de végétation plus sauvage, créant ainsi un contraste visuel intéressant. Dans notre région, cette approche permet une utilisation raisonée de l'eau pour l'arrosage
 #### Le jardin libre ou punk
 Derrière les Cycas entre la piscine et le chalet pour protéger la végétation en été nous créons un jardin dans lequel nous passons la tondeuse à minima. Seuls les chemins sont tracés. Le reste est laissé libre toute l'année de manière à ne pas être brûlé l'été.
 #### Le jardin sec
