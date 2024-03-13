@@ -94,7 +94,7 @@ A moins de 5mn en voiture se trouve une coopérative de fruits et légumes locau
 Le supermarché le plus proche se trouve à 8mn de voiture (à Saint-Cyr-sur-Mer) où on trouve également un marché et de nombreux commerces.
 Boulangeries et restaurants sont accessibles dans le centre ville historique du village de la Cadière d'Azur à 7mn en voiture.
 
-La maison n'est pas adapté pour les fêtés et événement tel que : mariage ou anniversaires,...
+La maison n'est pas adaptée pour les fêtés et événement tel que : mariage ou anniversaires,...
 
 Une petite video des vues de la maison : [ici](https://youtu.be/AcLem2M6H9o)
 

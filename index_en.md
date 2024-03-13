@@ -2,7 +2,7 @@
 # Villa des Luquettes
 
 <center>
-Family villa with swimming pool in the beautiful Provencal countryside of the Cadière-d'Azur ideal for families (220m2, 7 bedrooms, sleeps 14
+Family villa with swimming pool in the beautiful Provencal countryside of the Cadière-d'Azur ideal for families (220m2, 7 bedrooms, sleeps 14) Chemin des Luquettes, La Cadière-d'Azur
 </center>
 
 ![](img/DSC_0068_6.JPG)
@@ -20,7 +20,7 @@ Let yourself be lulled by the song of cicadas by the poolside in a garden compos
 - The charming perched medieval villages of Cadière-d'Azur and Castellet which have kept their Provencal authenticity.
 - The vineyards of Bandol, most of which are located in the commune of Cadière-d'Azur. Here the rosé is a must on warm summer days! The white wines are also to be discovered and the reds make excellent wines for bringing home to enjoy in the future.
 
-#### Sports enthusiasts will find nearby** 
+#### Sports enthusiasts will find nearby
 
 - All water activities (diving, sailing, kitesurfing, paddle, fishing) are obviously easy to practice! 
 - A multitude of hikes in the creeks from the Madrague, Bandol, or Cassis to discover turquoise creeks and wild landscapes. The wilderness is also rich in excursions!
