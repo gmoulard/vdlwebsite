@@ -11,7 +11,8 @@ Family villa with swimming pool in the beautiful Provencal countryside of the Ca
  
 #### The villa des Luquettes welcomes you for a revitalizing holiday with family or friends!
 
-#### Enjoy the calm and beauty of the countryside, near the sea and the vineyards of Bandol.** Let yourself be lulled by the song of cicadas by the poolside in a garden composed of many olive trees, fig trees, pomegranate trees, almond trees and flowering oleanders, plumbagos and bougainvilleas. 
+#### Enjoy the calm and beauty of the countryside, near the sea and the vineyards of Bandol.
+Let yourself be lulled by the song of cicadas by the poolside in a garden composed of many olive trees, fig trees, pomegranate trees, almond trees and flowering oleanders, plumbagos and bougainvilleas. 
 
 #### Discover the wonders of the region located about a ten minute's drive away
 
