@@ -2,7 +2,11 @@
 # Villa des Luquettes
 
 <center>
-Villa familiale avec piscine dans la belle campagne provençale de la Cadière-d'Azur idéale pour 2 familles (220m2, 7 chambres, 14 couchages) Chemin des Luquettes, La Cadière-d'Azur
+Villa familiale avec piscine dans la belle campagne provençale de la Cadière-d'Azur idéale pour 2 familles 
+   
+   220m2, 7 chambres, 14 couchages
+   
+   Chemin des Luquettes, La Cadière-d'Azur
 </center>
 
 ![](img/DSC_0068_6.JPG)
