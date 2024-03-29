@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "villa des luquettes"
 toc: true
 ---
