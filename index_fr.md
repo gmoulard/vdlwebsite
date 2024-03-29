@@ -114,17 +114,15 @@ Le jardin produit beaucoup de fruits. Les Figues sont généralement bonne au d�
 
 
 
-## Tarif 2023 / 2024
+## Tarif Septembre 2024 - 
 
 |Tarif||
 |-|-|
-|Ménage obligatoire en fin de séjours|200€|
-|Prix par semaine basse saison|2 930 €|
-|Prix par semaine haute saison (11/7-29/8)|3 250 €|
-|Forfait WeekEnd (hors juillet et aout) du vendredi 16h au lundi 10h - ménage inclus (200€) |1 200€|
-|Prix à la nuit (Min 2 nuits)(hors juillet et aout) de 16h au 10h |461€|
+|Prix par semaine basse saison|3 230 €|
+|Prix par semaine haute saison (11/7-29/8)|3 550 €|
+|Forfait WeekEnd 3 jours (hors juillet et aout) du vendredi 16h au lundi 10h - ménage inclus |1 500€|
 |A l'entré dans les lieux un chèque caution |1 000€|
-|La locaton n'incluts ni draps ni serviette||
+|La locaton incluts draps, serviette et ménage||
 
 
 disponibilité & reservation : [leboncoin](https://www.leboncoin.fr/locations_gites/2278518995.htm)
