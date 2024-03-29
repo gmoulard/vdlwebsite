@@ -10,8 +10,7 @@ Chemin des Luquettes, La Cadière-d'Azur
 
 ![](img/DSC_0068_6.JPG)
 
-{% include toc.html html=content %}
-
+{% include_relative toc.html html=content  %}
 
 [English](index_en)
 
