@@ -115,24 +115,20 @@ On the upper terrace are the Oliviers. In good years, they produce more than 100
 #### The gourmet garden
 The garden produces a lot of fruit. Figs are generally good at the beginning of July and September. Be careful not to prick yourself with the prickly pears. The pomegranates ripen in October and the almonds at the end of August. Citrus fruits mark the seasons, we have bigarade (bitter oranges), lemons, clementines. Soon we also hope to have grapefruits and sweet oranges.
 
-## Tarif 2023 / 2024
+## Tarif September 2024 
 
 |Tarif||
 |-|-|
-|Obligatory cleaning at the end of your stay |200€|
-|Price per week low season|2 930 €|
-|Price per week high season (11/7-29/8)|3 250 €|
-|WeekEnd package (except July and August) from Friday 4 p.m. to Monday 10 a.m. - cleaning included (200€) |1 200€|
-|by night (min 2 nights)(except July and August) from 4 p.m. to 10 a.m. |461€|
+|Price per week low season|3 230 €|
+|Price per week high season (11/7-29/8)|3 550 €|
+|WeekEnd package 3 days (except July and August) from Friday 10 a.m. to Monday 4 p.m.  |1 500€|
 |At the entrance to the premises a deposit check |1 000€|
-|The rental does not include sheets or towels||
-
+|The rental include sheets, towels and cleaning||
 
 disponibilité & reservation : [leboncoin](https://www.leboncoin.fr/locations_gites/2278518995.htm)
 [AirBnB](airbnb.com/h/villadesluquettes)
 
-
-Nous somme en mesure de prendre des réservations à partir de Février pour la saisons. 
+We are able to take reservations from February for the seasons.
 
 {% include_relative galery.md %}
 
