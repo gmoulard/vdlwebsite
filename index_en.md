@@ -2,7 +2,11 @@
 # Villa des Luquettes
 
 <center>
-Family villa with swimming pool in the beautiful Provencal countryside of the Cadière-d'Azur ideal for families (220m2, 7 bedrooms, sleeps 14) Chemin des Luquettes, La Cadière-d'Azur
+Family villa with swimming pool in the beautiful Provencal countryside of the Cadière-d'Azur ideal for families
+ 
+220m2, 7 bedrooms, sleeps 14
+
+Chemin des Luquettes, La Cadière-d'Azur
 </center>
 
 ![](img/DSC_0068_6.JPG)
