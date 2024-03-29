@@ -1,10 +1,3 @@
----
-layout: post
-title: "villa des luquettes"
-toc: true
----
-
-
 # Villa des Luquettes
 
 <center>
