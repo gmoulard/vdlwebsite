@@ -1,6 +1,16 @@
 # see : https://docs.github.com/fr/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll
 # remote_theme: pages-themes/leap-day@v0.2.0
-#plugins:
+plugins:
+  - jekyll-toc
+
+# TOC Settings
+toc:
+ min_level: 1
+ max_level: 3
+ list_class: toc
+ list_class: toc__list
+ sublist_class: toc__sublist
+ 
 #- jekyll-remote-theme # add this line to the plugins list if you already have one
 lsi: false
 safe: true
