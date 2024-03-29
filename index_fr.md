@@ -120,7 +120,7 @@ Le jardin produit beaucoup de fruits. Les Figues sont généralement bonne au d�
 |-|-|
 |Prix par semaine basse saison|3 230 €|
 |Prix par semaine haute saison (11/7-29/8)|3 550 €|
-|Forfait WeekEnd 3 jours (hors juillet et aout) du vendredi 16h au lundi 10h - ménage inclus |1 500€|
+|Forfait WeekEnd 3 jours (hors juillet et aout) du vendredi 10h au lundi 16h - ménage inclus |1 500€|
 |A l'entré dans les lieux un chèque caution |1 000€|
 |La locaton incluts draps, serviette et ménage||
 
