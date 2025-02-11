@@ -121,6 +121,8 @@ On the upper terrace are the Oliviers. In good years, they produce more than 100
 #### The gourmet garden
 The garden produces a lot of fruit. Figs are generally good at the beginning of July and September. Be careful not to prick yourself with the prickly pears. The pomegranates ripen in October and the almonds at the end of August. Citrus fruits mark the seasons, we have bigarade (bitter oranges), lemons, clementines. Soon we also hope to have grapefruits and sweet oranges.
 
+
+<!--
 ## Tarif September 2024 
 
 |Tarif||
@@ -130,6 +132,7 @@ The garden produces a lot of fruit. Figs are generally good at the beginning of 
 |WeekEnd package 3 days (except July and August) from Friday 10 a.m. to Monday 4 p.m.  |1 500€|
 |At the entrance to the premises a deposit check |1 000€|
 |The rental include sheets, towels and cleaning||
+-->
 
 disponibilité & reservation : [leboncoin](https://www.leboncoin.fr/locations_gites/2278518995.htm)
 [AirBnB](https://airbnb.com/h/villadesluquettes)
