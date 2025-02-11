@@ -132,7 +132,7 @@ The garden produces a lot of fruit. Figs are generally good at the beginning of 
 |The rental include sheets, towels and cleaning||
 
 disponibilité & reservation : [leboncoin](https://www.leboncoin.fr/locations_gites/2278518995.htm)
-[AirBnB](airbnb.com/h/villadesluquettes)
+[AirBnB](https://airbnb.com/h/villadesluquettes)
 
 We are able to take reservations from February for the seasons.
 
