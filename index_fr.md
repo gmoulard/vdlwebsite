@@ -114,9 +114,7 @@ Sur la restanque haute se trouve les Oliviers. Les bonnes années, ils nous prod
 #### Le jardin gourmand
 Le jardin produit beaucoup de fruits. Les Figues sont généralement bonne au début des mois de juillet et de septembre. Attention de ne pas vous piquez avec les figues de barbarie. Les Grenade son mure en octobre et les amandes fin aout. Les agrumes égrènent les saisons, nous avons des bigarade (oranges amères), les citrons, les clémentines. Bientôt nous espérons aussi avoir, des pamplemousses, des oranges douces. 
 
-
-
-
+<!--
 ## Tarif Septembre 2024 - 
 
 |Tarif||
@@ -127,6 +125,7 @@ Le jardin produit beaucoup de fruits. Les Figues sont généralement bonne au d�
 |A l'entré dans les lieux un chèque caution |1 000€|
 |La locaton incluts draps, serviette et ménage||
 
+-->
 
 disponibilité & reservation : [leboncoin](https://www.leboncoin.fr/locations_gites/2278518995.htm)
 [AirBnB](https;//airbnb.com/h/villadesluquettes)
