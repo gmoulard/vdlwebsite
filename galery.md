@@ -6,11 +6,8 @@
 
 
 ![](img/Cuisine.JPG)
-![](img/C1jours.JPG)
-![](Terrasse20m.JPG)
-![](Terrasse40m.JPG)
-
 #### C1
+![](img/C1jours.JPG)
 ![](img/C1.JPG)
 #### C2
 ![](img/C2.JPG)
