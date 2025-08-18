@@ -128,7 +128,7 @@ Le jardin produit beaucoup de fruits. Les Figues sont généralement bonne au d�
 -->
 
 disponibilité & reservation : [leboncoin](https://www.leboncoin.fr/locations_gites/2278518995.htm)
-[AirBnB](https;//airbnb.com/h/villadesluquettes)
+[AirBnB](https://airbnb.com/h/villadesluquettes)
 
 
 Nous somme en mesure de prendre des réservations à partir de Février pour la saisons. 
