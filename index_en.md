@@ -73,7 +73,7 @@ The house is south-facing which is very pleasant in summer and winter!
 - Swimming pool 8 meters by 4 meters secured by a "Beethoven" regulatory barrier and gate.
 - Terraces (40m2 and 20m2)
 - Pizza oven
-- Barbecues
+- Weber gas barbecue
 - Petanque
 - Ping-pong table 
 
