@@ -71,7 +71,7 @@ La maison est exposée plein sud ce qui est très agréable en été comme en hi
 - Piscine 8 mètres sur 4 sécurisé par une barrières réglementaire "Beethoven" et portillon .
 - Terrasses (40m2 et 20m2)
 - Four à pizzas
-- Barbecues
+- Barbecue à gaz Weber
 - Terrain de pétanque
 - Table de ping-pong
 
