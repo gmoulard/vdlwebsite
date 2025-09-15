@@ -14,8 +14,8 @@
 #### C3
 ![](img/C3.JPG)
 #### SDB RDC
-![](SDB_RDC.JPG)
-![](SDD_RDC.JPG)
+![](img/SDB_RDC.JPG)
+![](img/SDD_RDC.JPG)
 
 ### Upstairs
 
@@ -26,12 +26,13 @@
 ![](img/C6.JPG)
 #### C7
 ![](img/C7.JPG)
+#### Salon
 ![](img/Salon1.JPG)
 ![](img/Salon2JPG.JPG)
 #### SDB Etage
-![](SDB_Haut.JPG)
-![](IMG_5458.jpg)
-![](Toilette-Chat.jpg)
+![](img/SDB_Haut.JPG)
+![](img/IMG_5458.jpg)
+![](img/Toilette-Chat.jpg)
 
 ### Exterior
 
