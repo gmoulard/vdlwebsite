@@ -1,3 +1,7 @@
+---
+title: "Villa des Luquettes | Holiday rental with swimming pool in Provence"
+description: "Stay at Villa des Luquettes, a holiday home with a private swimming pool close to the beaches and tourist attractions of Les Lecques, La Cadière-d'Azur, Bandol and Saint-Cyr-sur-Mer. Book now."
+---
 
 # Villa des Luquettes
 
