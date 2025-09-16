@@ -1,0 +1,7 @@
+# robots.txt pour un WordPress
+
+User-agent: *
+Allow: /
+Disallow: /prive
+
+Sitemap: https://villadesluquettes.com/sitemap.xml
