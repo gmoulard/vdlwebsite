@@ -1,3 +1,8 @@
+---
+title: "Villa des Luquettes | Location de vacances avec piscine en Provence"
+description: "Séjournez à la Villa des Luquettes, maison de vacances avec piscine privée proche plages et sites touristiques Les lecs, la cadiere d'azure, bandol, sazint syr sur mer. Réservez dès maintenant.."
+---
+
 # Villa des Luquettes
 
 <center>
