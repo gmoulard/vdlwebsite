@@ -17,7 +17,7 @@ Chemin des Luquettes, La Cadière-d'Azur
 
 
 
-[French](index_fr)
+[French](index_fr) | [kikouchou.app](https://share.kikouchou.app/fr/t/z4tRj9vZP_jo-V7w)
  
 #### The villa des Luquettes welcomes you for a revitalizing holiday with family or friends!
 
@@ -141,7 +141,8 @@ The garden produces a lot of fruit. Figs are generally good at the beginning of 
 disponibilité & reservation : [leboncoin](https://www.leboncoin.fr/locations_gites/2278518995.htm)
 [AirBnB](https://airbnb.com/h/villadesluquettes)
 
-We are able to take reservations from February for the seasons.
+to prepare your coming you can use: [kikouchou.app](https://share.kikouchou.app/fr/t/z4tRj9vZP_jo-V7w)
+
 
 {% include_relative galery.md %}
 
