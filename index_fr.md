@@ -138,7 +138,6 @@ disponibilité & reservation : [leboncoin](https://www.leboncoin.fr/locations_gi
 
 pour préparer votre venu vous pouvez utiliser [kikouchou.app](https://share.kikouchou.app/fr/t/z4tRj9vZP_jo-V7w)
 
-Nous somme en mesure de prendre des réservations à partir de Février pour la saisons. 
 
 {% include_relative galery.md %}
 
