@@ -16,8 +16,7 @@ Chemin des Luquettes, La Cadière-d'Azur
 ![](img/DSC_0068_6.JPG)
 
 
-[English](index_en) |[![Villa des Luquettes](https://share.kikouchou.app/fr/t/z4tRj9vZP_jo-V7w/card.png)](https://share.kikouchou.app/fr/t/z4tRj9vZP_jo-V7w)
-
+[English](index_en) 
 #### La villa des Luquettes vous accueille pour des vacances ressourçantes en famille ou entre amis !
 
 #### Jouissez du calme et de la beauté de la campagne, à proximité de la mer et des vignobles de Bandol.
@@ -136,8 +135,7 @@ disponibilité & reservation : [leboncoin](https://www.leboncoin.fr/locations_gi
 [AirBnB](https://airbnb.com/h/villadesluquettes)
 
 
-pour préparer votre venu vous pouvez utiliser [kikouchou.app](https://share.kikouchou.app/fr/t/z4tRj9vZP_jo-V7w)
-
+pour préparer votre venu vous pouvez utiliser [![Villa des Luquettes](https://share.kikouchou.app/fr/t/z4tRj9vZP_jo-V7w/card.png)](https://share.kikouchou.app/fr/t/z4tRj9vZP_jo-V7w)
 
 {% include_relative galery.md %}
 
