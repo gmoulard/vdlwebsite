@@ -151,6 +151,7 @@ to prepare your coming you can use: [kikouchou.app](https://share.kikouchou.app/
 ![](img/qrcode.jpg)
 
 
+[![Villa des Luquettes](https://share.kikouchou.app/fr/t/z4tRj9vZP_jo-V7w/card.png)](https://share.kikouchou.app/fr/t/z4tRj9vZP_jo-V7w)
 
 
 <script>
